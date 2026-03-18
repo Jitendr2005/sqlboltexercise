@@ -5,17 +5,18 @@ Question:1 Find the title of each film
 
 1. SELECT title from movies;
    
-  (Monsters, Inc.
-   Finding Nemo
-   The Incredibles
-   Cars
-   Ratatouille
-   WALL-E
-   Up
-   Toy Story 3
-   Cars 2
-   Brave
-   Monsters University)
+  - Monsters, Inc.
+- Finding Nemo
+- The Incredibles
+- Cars
+- Ratatouille
+- WALL-E
+- Up
+- Toy Story 3
+- Cars 2
+- Brave
+- Monsters University
+
 
 Question:2 Find the director of each film
 
