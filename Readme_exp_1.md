@@ -7,7 +7,7 @@ As we mentioned in the introduction, **you can think of a table in SQL as a type
 
 
 
-Question:1 Find the title of each film 
+**Find the title of each film.**
 
 ```sql
 SELECT title from movies;
