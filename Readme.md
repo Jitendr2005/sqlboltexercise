@@ -22,7 +22,9 @@ SELECT title from movies;
 
 Question:2 Find the director of each film
 
-2. SELECT director from movies;
+```sql
+SELECT director from movies;
+```
    
 - Pete Docter
 - Andrew Stanton
@@ -38,7 +40,9 @@ Question:2 Find the director of each film
 
 Question:3 Find the title and director of each film 
 
-3. SELECT title , director from movies;
+```sql 
+SELECT title , director from movies;
+```
    
 | Title | Director |
 |------|----------|
@@ -57,7 +61,9 @@ Question:3 Find the title and director of each film
 
 Question:4 Find the title and year of each film
 
-4. SELECT title , year from movies;
+```sql 
+SELECT title , year from movies;
+```
    
 | Title | Year |
 |------|------|
@@ -75,7 +81,9 @@ Question:4 Find the title and year of each film
 
 Question:5 Find all the information about each film
 
-5. SELECT * from movies;
+```sql
+SELECT * from movies;
+```
    
 | ID | Title | Director | Year | Length (Minutes) |
 |----|------|----------|------|------------------|
