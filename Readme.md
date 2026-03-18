@@ -3,9 +3,9 @@
 
 Question:1 Find the title of each film 
 
-'''sql
+```sql
 SELECT title from movies;
-'''
+```
    
   - Monsters, Inc.
 - Finding Nemo
