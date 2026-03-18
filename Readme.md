@@ -2,7 +2,9 @@
 ---> Exercise 1:
 
 Question:1 Find the title of each film 
+
 1. SELECT title from movies;
+   
   (Monsters, Inc.
    Finding Nemo
    The Incredibles
@@ -16,7 +18,9 @@ Question:1 Find the title of each film
    Monsters University)
 
 Question:2 Find the director of each film
+
 2. SELECT director from movies;
+   
 (Pete Docter
 Andrew Stanton
 Brad Bird
@@ -30,7 +34,9 @@ Brenda Chapman
 Dan Scanlon)
 
 Question:3 Find the title and director of each film 
+
 3. SELECT title , director from movies;
+   
 (Monsters, Inc.	  Pete Docter
 Finding Nemo	  Andrew Stanton
 The Incredibles	  Brad Bird
@@ -44,7 +50,9 @@ Brave	          Brenda Chapman
 Monsters University	Dan Scanlon)
 
 Question:4 Find the title and year of each film
+
 4. SELECT title , year from movies;
+   
 (Monsters, Inc.	2001
 Finding Nemo	2003
 The Incredibles	2004
@@ -58,7 +66,9 @@ Brave	        2012
 Monsters University	2013)
 
 Question:5 Find all the information about each film
+
 5. SELECT * from movies;
+   
 (id	title	director	year	length_minutes
 1	Toy Story	John Lasseter	1995	81
 2	A Bug's Life	John Lasseter	1998	95
