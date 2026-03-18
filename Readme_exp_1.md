@@ -1,5 +1,6 @@
 # sqlboltexercise
 ---> Exercise 1:SELECT queries 101
+
 **To retrieve data from a SQL database, we need to write SELECT statements**, which are often colloquially referred to as queries. A query in itself is just a statement which declares what data we are looking for, where to find it in the database, and optionally, how to transform it before it is returned. It has a specific syntax though, which is what we are going to learn in the following exercises.
 
 As we mentioned in the introduction, **you can think of a table in SQL as a type of an entity** (ie. Dogs), and each row in that table as a specific instance of that type (ie. A pug, a beagle, a different colored pug, etc). This means that the columns would then represent the common properties shared by all instances of that entity (ie. Color of fur, length of tail, etc).
