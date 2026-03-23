@@ -1,5 +1,5 @@
-# ---> Exercise 5: Filtering, Sorting & LIMIT (Cities Data)
-
+# sqlboltexercise
+---> Exercise 5: Filtering, Sorting & LIMIT (Cities Data)
 ---
 
 ### Question:1 List all the Canadian cities and their populations
