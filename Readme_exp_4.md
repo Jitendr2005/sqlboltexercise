@@ -1,6 +1,5 @@
 # sqlboltexercise
 ---> Exercise 4: DISTINCT, ORDER BY & LIMIT
-
 ---
 
 ### Question:1 List all directors of Pixar movies (alphabetically), without duplicates
