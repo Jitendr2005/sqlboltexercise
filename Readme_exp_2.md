@@ -1,4 +1,6 @@
+# sqlboltexercise
 ---> Exercise 2: Filtering queries
+---
 
 Question:1 Find the movie with a row id of 6
 
