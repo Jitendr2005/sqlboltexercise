@@ -1,4 +1,6 @@
+# sqlboltexercise
 Exercise:3 --> Queries with constraints (Pt. 2)
+---
 
 Question:1 Find all the Toy Story movies
 
