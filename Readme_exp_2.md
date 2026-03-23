@@ -7,8 +7,9 @@ SELECT * FROM movies
 WHERE id = 6;
 ```
 
-ID	Title	Director	Year	Length (Minutes)
-6	The Incredibles	Brad Bird	2004	116
+| ID | Title           | Director  | Year | Length (Minutes) |
+| -- | --------------- | --------- | ---- | ---------------- |
+| 6  | The Incredibles | Brad Bird | 2004 | 116              |
 
 Question:2 Find the movies released in the years between 2000 and 2010
 
