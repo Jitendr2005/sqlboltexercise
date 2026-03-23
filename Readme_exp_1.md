@@ -1,6 +1,5 @@
 # sqlboltexercise
 ---> Exercise 1:SELECT queries 101
-
 ---
 
 Question:1 Find the title of each film.
