@@ -1,5 +1,5 @@
-# ---> Exercise 6: JOIN & Filtering
-
+# sqlboltexercise
+---> Exercise 6: JOIN & Filtering
 ---
 
 ### Question:1 Find the domestic and international sales for each movie
