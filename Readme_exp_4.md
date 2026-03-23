@@ -1,4 +1,5 @@
-# ---> Exercise 4: DISTINCT, ORDER BY & LIMIT
+# sqlboltexercise
+---> Exercise 4: DISTINCT, ORDER BY & LIMIT
 
 ---
 
